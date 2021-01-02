@@ -1,0 +1,4 @@
+This files creates after two other files that has the same name.
+ This is Git Madual. The process to write into a file is as bellow: 
+touch file.txt is to create the file into the folder. 
+Then, we write vi file.txt to write the text into the file. 
